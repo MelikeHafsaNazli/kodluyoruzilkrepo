@@ -6,7 +6,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 git clone https://github.com/MelikeHafsaNazli/kodluyoruzilkrepo
 
-image.png
+<img srs="image.png">
 
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
